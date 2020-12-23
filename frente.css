@@ -1,0 +1,635 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#cabecalho{
+
+	height: 35px;
+	width: 100%;
+	background-color:#EF2A89;
+	float: left;
+}
+
+#rodape {
+    
+	width: 119%;
+	height: 35px;
+	margin-top: 140%;
+    background-color: #EF2A89;
+    position: absolute;
+    margin-left: -19%;
+}
+
+#lateralesquerda{
+    position: absolute;
+    width: 83px;
+    height: 1900px;
+    background: #EF2A89;
+}
+
+#lateraldireita{
+    position: absolute;
+    width: 83px;
+    height: 1900px;
+    background: #EF2A89;
+    margin-left: 94%;
+}
+
+#titulo h1{
+   
+width: 100%;
+position: absolute;
+margin-top: 10%;
+font-family: Arial;
+font-style: italic;
+font-weight: bold;
+font-size: 38px;
+text-align: center;
+color: #FFE818;
+}
+
+#primeiroretangulo{
+    position: absolute;
+    width: 350px;
+    height: 300px;
+    margin-left: 14%;
+    margin-top: 23%;
+    background-color: darkgray;
+    border-radius: 15px;
+}
+
+#primeiroretangulo h2  {
+    position: relative;
+    width: 200px;
+    height: 44px;
+    left: 40%;
+    top: 22px;
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 40px;
+    
+}
+
+#partemeio h4{
+    position: absolute;
+    width: 124px;
+    height: 117px;
+    left: 23px;
+    top: 90px;
+
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 40px;
+
+
+    text-align: center;
+
+    color: #000000;
+}
+
+#partemeio img{
+    position: absolute;
+width: 140px;
+height: 130px;
+left: 164px;
+top: 80px;
+}
+
+#primeiroretangulo button{
+ 
+    position: absolute;
+    width: 85px;
+    height: 22px;
+    left: 130px;
+    top: 240px;
+    
+    background: #EF2A89;
+    
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 8px;
+
+}
+
+#primeiroretangulo button h3{
+    position: relative;   
+    width: 113px;
+    margin-top: -10%;
+    margin-left: -19%;
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 40px;
+    color: #FFE818;'
+}
+
+#segundoretangulo{
+    position: absolute;
+    width: 350px;
+    height: 300px;
+    margin-left: 181%;
+    margin-top: -13%;
+    background-color: darkgray;
+    border-radius: 15px;
+}
+
+#segundoretangulo h2  {
+    position: relative;
+    width: 200px;
+    height: 44px;
+    left: 10%;
+    top: 22px;
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 40px;
+    
+}
+
+#partemeio2 h4{
+    position: absolute;
+    width: 124px;
+    height: 117px;
+    left: 23px;
+    top: 90px;
+
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 40px;
+
+
+    text-align: center;
+
+    color: #000000;
+}
+
+#partemeio2 img{
+    position: absolute;
+    width: 140px;
+    height: 130px;
+    left: 164px;
+    top: 80px;
+    mix-blend-mode: darken;
+}
+
+#segundoretangulo button{
+ 
+    position: absolute;
+    width: 85px;
+    height: 22px;
+    left: 130px;
+    top: 240px;
+    
+    background: #EF2A89;
+    
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 8px;
+
+}
+
+#segundoretangulo button h3{
+ position: relative;   
+width: 113px;
+margin-top: -10%;
+margin-left: -19%;
+font-family: Arial;
+font-style: italic;
+font-weight: bold;
+font-size: 13px;
+line-height: 40px;
+color: #FFE818;
+}
+
+
+#terceiroretangulo{
+    position: absolute;
+    width: 350px;
+    height: 300px;
+    left: -181%;
+    top: 140%;
+   
+    background-color: darkgray;
+    border-radius: 15px;
+}
+
+#terceiroretangulo h2  {
+    position: relative;
+    width: 200px;
+    height: 44px;
+    left: 23%;
+    top: 22px;
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 40px;
+    
+}
+
+#partemeio3 h4{
+    position: absolute;
+    width: 124px;
+    height: 117px;
+    left: 28px;
+    top: 90px;
+
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 40px;
+
+
+    text-align: center;
+
+    color: #000000;
+}
+
+#partemeio3 img{
+    position: absolute;
+    width: 140px;
+    height: 130px;
+    left: 164px;
+    top: 80px;
+    
+}
+
+#terceiroretangulo button{
+ 
+    position: absolute;
+    width: 85px;
+    height: 22px;
+    left: 130px;
+    top: 240px;
+    
+    background: #EF2A89;
+    
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 8px;
+
+}
+
+#terceiroretangulo button h3{
+ position: relative;   
+width: 113px;
+margin-top: -10%;
+margin-left: -19%;
+font-family: Arial;
+font-style: italic;
+font-weight: bold;
+font-size: 13px;
+line-height: 40px;
+color: #FFE818;
+}
+
+#quartoretangulo{
+    position: absolute;
+    width: 350px;
+    height: 300px;
+    left: 181%;
+    top: 0.1px;
+   
+    background-color: darkgray;
+    border-radius: 15px;
+}
+
+#quartoretangulo h2  {
+    position: relative;
+    width: 200px;
+    height: 44px;
+    left: 28%;
+    top: 22px;
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 40px;
+    
+}
+
+#partemeio4 h4{
+    position: absolute;
+    width: 124px;
+    height: 117px;
+    left: 28px;
+    top: 100px;
+
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 40px;
+
+
+    text-align: center;
+
+    color: #000000;
+}
+
+#partemeio4 img{
+    position: absolute;
+    width: 140px;
+    height: 130px;
+    left: 164px;
+    top: 80px;
+    mix-blend-mode: darken;
+    
+}
+
+#quartoretangulo button{
+ 
+    position: absolute;
+    width: 85px;
+    height: 22px;
+    left: 130px;
+    top: 240px;
+    
+    background: #EF2A89;
+    
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 8px;
+
+}
+
+#quartoretangulo button h3{
+ position: relative;   
+width: 113px;
+margin-top: -10%;
+margin-left: -19%;
+font-family: Arial;
+font-style: italic;
+font-weight: bold;
+font-size: 13px;
+line-height: 40px;
+color: #FFE818;
+}
+
+#quintoretangulo{
+    position: absolute;
+    width: 350px;
+    height: 300px;
+    left: -181%;
+    top: 140%;
+   
+    background-color: darkgray;
+    border-radius: 15px;
+}
+
+#quintoretangulo h2  {
+    position: relative;
+    width: 200px;
+    height: 44px;
+    left: 28%;
+    top: 22px;
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 40px;
+    
+}
+
+#partemeio5 h4{
+    position: absolute;
+    width: 124px;
+    height: 117px;
+    left: 28px;
+    top: 74px;
+
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 40px;
+
+
+    text-align: center;
+
+    color: #000000;
+}
+
+#partemeio5 img{
+    position: absolute;
+    width: 140px;
+    height: 130px;
+    left: 164px;
+    top: 80px;
+    
+}
+
+#quintoretangulo button{
+ 
+    position: absolute;
+    width: 85px;
+    height: 22px;
+    left: 130px;
+    top: 240px;
+    
+    background: #EF2A89;
+    
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 8px;
+
+}
+
+#quintoretangulo button h3{
+    position: relative;   
+    width: 113px;
+    margin-top: -10%;
+    margin-left: -19%;
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 40px;
+    color: #FFE818;
+}
+
+#sextoretangulo{
+    position: absolute;
+    width: 350px;
+    height: 300px;
+    left: 181%;
+    top: 0.1px;
+   
+    background-color: darkgray;
+    border-radius: 15px;
+}
+
+#sextoretangulo h2  {
+    position: relative;
+    width: 200px;
+    height: 44px;
+    left: 28%;
+    top: 22px;
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 40px;
+    
+}
+
+#partemeio6 h4{
+    position: absolute;
+    width: 124px;
+    height: 117px;
+    left: 28px;
+    top: 74px;
+
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 40px;
+
+
+    text-align: center;
+
+    color: #000000;
+}
+
+#partemeio6 img{
+    position: absolute;
+    width: 140px;
+    height: 130px;
+    left: 164px;
+    top: 80px;
+    
+    
+}
+
+#sextoretangulo button{
+ 
+    position: absolute;
+    width: 85px;
+    height: 22px;
+    left: 130px;
+    top: 240px;
+    
+    background: #EF2A89;
+    
+    border: 1px solid #000000;
+    border-radius: 8px;
+
+}
+
+#sextoretangulo button h3{
+ position: relative;   
+width: 113px;
+margin-top: -10%;
+margin-left: -19%;
+font-family: Arial;
+font-style: italic;
+font-weight: bold;
+font-size: 13px;
+line-height: 40px;
+color: #FFE818;
+}
+
+#partepromocao{
+    position: absolute;
+    width: 1000px;
+    height: 200px;
+    background-color: darkgray;
+    left: -181%;
+    top: 410px;
+    border-radius: 8px;
+}
+
+#partepromocao h2 {
+    position: absolute;
+    width: 82px;
+    height: 91px;
+    left: 33px;
+    top: 60px;
+    text-align: center;
+
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+#partepromocao h1{
+    position: absolute;
+    width: 592px;
+    height: 34px;
+    left: 200px;
+    top: 19px;
+
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 23px;
+    line-height: 28px;
+   
+    text-align: center;
+
+    color: #000000
+}
+
+#partepromocao h3{
+    position: absolute;
+    width: 177px;
+    height: 33px;
+    left: 220px;
+    top: 110px;
+
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 28px;
+    
+
+    text-align: center;
+
+    color: #000000;
+}
+
+#partepromocao #partecampo{
+    position: absolute;
+width: 280px;
+height: 30px;
+left: 400px;
+top: 110px;
+
+background: #FFFFFF;
+border-radius: 8px;
+}
+
+#partepromocao button{
+    position: absolute;
+width: 85px;
+height: 22px;
+left: 722px;
+top: 114px;
+
+background: #EF2A89;
+opacity: 0.8;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 8px;
+}
+
+
+#partepromocao h4{
+    color: #FFE818;
+}
+
+a {
+	text-decoration:none;
+	color:black;
+   }

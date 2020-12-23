@@ -1,0 +1,255 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	text-decoration:none;
+	color:black;
+   }
+#cabecalho{
+
+	height: 35px;
+	width: 100%;
+	background-color:#EF2A89;
+	float: left;
+}
+
+#rodape {
+    
+	width: 119%;
+	height: 35px;
+	margin-top: 140%;
+    background-color: #EF2A89;
+    position: absolute;
+    margin-left: -19%;
+}
+
+#lateralesquerda{
+    position: absolute;
+    width: 83px;
+    height: 1900px;
+    background: #EF2A89;
+}
+
+#lateraldireita{
+    position: absolute;
+    width: 83px;
+    height: 1900px;
+    background: #EF2A89;
+    margin-left: 94%;
+}
+
+#titulo h1{
+   
+width: 100%;
+position: absolute;
+margin-top: 10%;
+font-family: Arial;
+font-style: italic;
+font-weight: bold;
+font-size: 38px;
+text-align: center;
+color: #FFE818;
+}
+
+#primeiroretangulo{
+    position: absolute;
+    width: 350px;
+    height: 300px;
+    margin-left: 37%;
+    margin-top: 23%;
+    background-color: darkgray;
+    border-radius: 15px;
+}
+#primeiroretangulo h2  {
+    position: relative;
+    width: 200px;
+    height: 44px;
+    left: 10%;
+    top: 22px;
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 40px;
+    
+}
+
+#partemeio h4{
+    position: absolute;
+    width: 124px;
+    height: 117px;
+    left: 23px;
+    top: 90px;
+
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 40px;
+
+
+    text-align: center;
+
+    color: #000000;
+}
+
+#partemeio img{
+    position: absolute;
+width: 140px;
+height: 130px;
+left: 164px;
+top: 80px;
+
+}
+
+#partesabor1{
+    position: absolute;
+    width: 200px;
+    height: 300px;
+    left: -41%;
+    top: 150%;
+    border-radius: 8px;
+    background: darkgray;
+}
+
+#partesabor1 h1{
+    position: absolute;
+width: 115px;
+height: 40px;
+left: 40px;
+top: 14px;
+
+font-family: Arial;
+font-style: italic;
+font-weight: bold;
+font-size: 20px;
+text-align: center;
+
+color: #000000;;
+}
+
+
+#partesabor2{
+    position: absolute;
+width: 148px;
+height: 177px;
+left: 20px;
+top: 80px;
+
+font-family: Arial;
+font-style: italic;
+font-weight: bold;
+font-size: 13px;
+line-height: 20px;
+/* or 154% */
+
+text-align: center;
+
+color: #000000;
+}
+
+#partesabor3{
+    position: absolute;
+    width: 200px;
+    height: 300px;
+    left: 86%;
+    top: 150%;
+    border-radius: 8px;
+    background: darkgray;
+}
+
+#partesabor3 h1{
+    position: absolute;
+width: 115px;
+height: 40px;
+left: 40px;
+top: 14px;
+
+font-family: Arial;
+font-style: italic;
+font-weight: bold;
+font-size: 20px;
+text-align: center;
+
+color: #000000;;
+}
+
+
+#partesabor4{
+    position: absolute;
+width: 148px;
+height: 177px;
+left: 20px;
+top: 80px;
+
+font-family: Arial;
+font-style: italic;
+font-weight: bold;
+font-size: 13px;
+line-height: 20px;
+/* or 154% */
+
+text-align: center;
+
+color: #000000;
+}
+
+#botao{
+    position: relative;
+    width: 247px;
+    height: 30px;
+    background: #EF2A89;
+    top: 482%;
+    left: -100%;
+    border-radius: 8px;
+}
+
+#botao h2{
+    position: absolute;
+    width: 228px;
+    height: 19px;
+    left: 7px;
+    top: 10px;
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 10px;
+
+
+text-align: center;
+
+color: #FFE818;
+
+}
+
+#botao2{
+    position: relative;
+    width: 247px;
+    height: 30px;
+    background: #EF2A89;
+    top: 473%;
+    left: 130%;
+    border-radius: 8px;
+}
+
+#botao2 h2{
+    position: absolute;
+    width: 228px;
+    height: 19px;
+    left: 7px;
+    top: 10px;
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 10px;
+
+
+text-align: center;
+
+color: #FFE818;
+
+}   
